@@ -1,0 +1,51 @@
+Let's play Tetris!
+
+Controls:
+
+q/z - rotate left
+e/up - rotate right
+
+a/left - move left
+d/right - move right
+
+s/down - move down
+w/space - hard drop (drop it all the way down)
+
+shift - hold/swap piece
+
+x - rotate 180
+
+*controls can be reconfigured by editing the
+ "settings.json" file in the "data" folder
+
+	--> Debug controls (only in singleplayer)
+		
+		enter - restart game
+		p - pause game
+		g - turn gravity on/off
+		m - turn music on/off
+		r - change current piece
+
+] - restart application
+
+
+How To Play:
+
+Stack blocks in order to form lines that get cleared away. 
+Survive as long as possible avoiding the blocks stacking 
+to the top of the grid.
+
+       --> Singleplayer: Try to clear as many lines as possible
+
+       --> Multiplayer: Send garbage to opponents by clearing lines
+			 (more at once sends more garbage). 
+		          Be the last one standing!
+
+Research Tetris rules for more details
+
+Notes:
+
+--> For multiplayer, ask user running the server for their ip address
+--> Enter "start" as id or ip in order to activate singleplayer mode
+--> Failed connection to server results in singleplayer mode
+
