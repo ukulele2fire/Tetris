@@ -1,0 +1,12 @@
+Uses to boot up the server for a Tetris match
+
+Controls:
+
+s - start a match
+a - assign targets
+r - reset server
+
+Note:
+
+To find the IP address that the clients need to connect to,
+open command line and use the command "ipconfig"
