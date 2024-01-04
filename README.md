@@ -12,6 +12,8 @@ https://github.com/ukulele2fire/Tetris-Multiplayer/assets/84601166/0a191f35-6de3
 
 Download the client and/or server executable files from the repository
 
+Alternatively, download Processing, download repository, and then open repository in Processing
+
 ## Instructions
 
 Let's play Tetris!
