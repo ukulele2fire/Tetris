@@ -18,18 +18,18 @@ Let's play Tetris!
 
 ### Controls:
 
-q/z - rotate left
-e/up - rotate right
+	q/z - rotate left
+	e/up - rotate right
 
-a/left - move left
-d/right - move right
+	a/left - move left
+	d/right - move right
 
-s/down - move down
-w/space - hard drop (drop it all the way down)
+	s/down - move down
+	w/space - hard drop (drop it all the way down)
 
-shift - hold/swap piece
+	shift - hold/swap piece
 
-x - rotate 180
+	x - rotate 180
 
 *controls can be reconfigured by editing the
  "settings.json" file in the "data" folder
@@ -42,7 +42,7 @@ x - rotate 180
 		m - turn music on/off
 		r - change current piece
 
-] - restart application
+	] - restart application
 
 
 ### How To Play:
