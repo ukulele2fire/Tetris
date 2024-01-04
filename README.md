@@ -71,6 +71,8 @@ Research Tetris rules for more details
 
 Run the server executable
 
+![Screenshot 2024-01-04 145102](https://github.com/ukulele2fire/Tetris-Multiplayer/assets/84601166/233fbc59-33cb-4e84-962f-d93e66d83613)
+
 #### Controls:
 
 	s - start a match
