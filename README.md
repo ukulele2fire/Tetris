@@ -8,4 +8,8 @@ Recreation of the classic game of Tetris (with additional battle royale mode) us
 
 https://github.com/ukulele2fire/Tetris-Multiplayer/assets/84601166/0a191f35-6de3-46e2-ac7c-f5ff769adb06
 
+# Installation
+
+Download the executable file from the following Dropbox link: https://www.dropbox.com/scl/fo/6qam24hno8cmytdtbkrc1/h?rlkey=u2sso4sceay828dydss92wmtd&dl=0
+
 
