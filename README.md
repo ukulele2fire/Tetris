@@ -65,7 +65,9 @@ Research Tetris rules for more details
     --> Enter "start" as id or IP in order to activate singleplayer mode
     --> Failed connection to server results in singleplayer mode
 
-### Setting Up Server
+### Setting Up Server:
+
+Run the server executable
 
 #### Controls:
 
