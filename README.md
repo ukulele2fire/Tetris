@@ -65,4 +65,23 @@ Research Tetris rules for more details
     --> Enter "start" as id or IP in order to activate singleplayer mode
     --> Failed connection to server results in singleplayer mode
 
+### Setting Up Server
+
+#### Controls:
+
+	s - start a match
+	a - assign targets
+	r - reset server
+
+#### Note:
+
+To find the IP address that the clients need to connect to,
+open command line and use the command "ipconfig"
+
+![ExampleIP](https://github.com/ukulele2fire/Tetris-Multiplayer/assets/84601166/5bffd18c-779a-43c9-89e7-4ddc988ae3e6)
+
+
+
+
+
 
